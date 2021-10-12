@@ -1,10 +1,10 @@
-# UE4 ADD TITLE HERE
+# UE4 Level Design
 
 
 <!-- OVERVIEW -->
-## Overview
+## Level Design: Flipper
 
-ADD OVERVIEW HERE
+Let's add a flipper to our scene, which will rotate 180 degrees only when the player jumps.
   
 
 * Tested on UE4 4.26
@@ -12,7 +12,9 @@ ADD OVERVIEW HERE
 
 <!-- TOC -->
 ## Table of Contents
-<kbd></kbd> &nbsp;&nbsp; [Setting Up](setting-up/README.md#user-content-setting-up)<br>
+<kbd></kbd> &nbsp;&nbsp; [Setting Up](setting-up/README.md)<br>
+<kbd></kbd> &nbsp;&nbsp; [Creating the Mesh](create-mesh/README.md)<br>
+<kbd></kbd> &nbsp;&nbsp; [Creating the Blueprint](flipper-blueprint/README.md)<br>
 
 
 
