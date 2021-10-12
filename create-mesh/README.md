@@ -32,6 +32,8 @@ Let’s move the mesh 150 in the X, to align it with the scene’s center.
 
 <video src="images/2021-10-12 10-09-26.mp4" width="600"></video>
 
+https://user-images.githubusercontent.com/20305074/136996945-f1ad03b0-9596-44c1-82f3-d28b02303e83.mp4
+
 
 <p>Now that our rotational pivot makes sense, let's send this back into Unreal. With the mesh selected, go to File>Game Exporter.</p>
 
